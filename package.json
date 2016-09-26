@@ -1,0 +1,23 @@
+{
+  "name": "wallaby-804",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wallabyjs/wallaby-804.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wallabyjs/wallaby-804/issues"
+  },
+  "homepage": "https://github.com/wallabyjs/wallaby-804#readme",
+  "devDependencies": {
+    "babel-core": "^6.14.0",
+    "jest-cli": "^15.1.1"
+  }
+}
